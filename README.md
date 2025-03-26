@@ -1,6 +1,6 @@
 # Global SuperStore Report
 
-![introduction](https://github.com/ClareFluxx/Global-SuperStore-Report/blob/main/Screenshots/intro_photo.jpg)
+![introduction](intro_photo.jpg)
 ---
 
 ## Introduction
