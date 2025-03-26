@@ -51,7 +51,7 @@ The following DAX measures were used to calculate key metrics within the dataset
 ## Visual Overview
 
 - #### What are the three countries that generated the highest total profit for Global Superstore in 2014?
-  ![total_profit2024.PNG]()
+  ![Top 3 Most Profitable Countries ](https://github.com/ClareFluxx/Global-SuperStore-Report/blob/main/Screenshots/total_profit2024.PNG)
   
   In 2014,the three countries that generated the highest total profit for global superstore are:
   1. United States with $93,507.5
