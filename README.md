@@ -1,6 +1,6 @@
 # Global SuperStore Report
 
-! Screenshots/intro_photo.jpg
+! [](intro_photo.jpg)
 ---
 
 ## Introduction
