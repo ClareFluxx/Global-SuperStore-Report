@@ -28,7 +28,7 @@ The following Power BI features where incorporated:
 - Filters and Interactivity
 
 ## Data Modeling
-![data_modeling.PNG]()
+![Data Modeling](data_modeling.PNG)
 ---
 
 The Global SuperStore data model was structured using a star schema approach, with the order table as the central fact table, returns and people tables as the two dimensions table. Both were joined to the fact table with a one-to-many relationship.
@@ -51,7 +51,7 @@ The following DAX measures were used to calculate key metrics within the dataset
 ## Visual Overview
 
 - #### What are the three countries that generated the highest total profit for Global Superstore in 2014?
-  ![Top 3 Most Profitable Countries ](https://github.com/ClareFluxx/Global-SuperStore-Report/blob/main/Screenshots/total_profit2024.PNG)
+  
   
   In 2014,the three countries that generated the highest total profit for global superstore are:
   1. United States with $93,507.5
@@ -59,9 +59,6 @@ The following DAX measures were used to calculate key metrics within the dataset
   3. China with $46,793.9
 
 - #### (b) For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
-- ![us_profitableproduct.PNG]()
-- ![india_profitableproduct.PNG]()
-- ![china_profitableproduct.PNG]()
 
 
 
