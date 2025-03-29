@@ -131,7 +131,9 @@ Compared to other countries, Nigeria's average shipping cost and discount is rel
   Followed by Copier with $105 and Phones with $98.
 
 - #### Who are the most valuable customers and what do they purchase?
+  
   ![Top Customers](top-customer.PNG)
+  
   The top 3 valuable customers are:
   1. Tamara Chand
   2. Raymond Buch
