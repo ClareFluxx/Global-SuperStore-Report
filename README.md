@@ -33,6 +33,8 @@ The data was stored in an excel file with multiple sheets, including:
 - Orders Table
 - Returns Table
 - People Table
+Find the the link to the Global Superstore dataset in below:  
+https://docs.google.com/spreadsheets/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/edit#gid=633280281 
 
 ## Data Transformation
 
