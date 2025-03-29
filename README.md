@@ -1,6 +1,6 @@
 # Global SuperStore Report
 
-![Introduction.png](Introduction.png)
+![Introduction](Introduction.png)
 
 ## Introduction
 This is a Power BI project on the sales analysis of an imaginary store called "Global SuperStore". The objective of this project is to analyze the dataset and provide answers to business questions.
@@ -45,7 +45,7 @@ Key steps include:
 
 ## Data Modeling
 
-![data_modeling.PNG](data_modeling.PNG)
+![Data modeling](data-modeling.PNG)
 
 The Global SuperStore data model was structured using a star schema approach, with the order table as the central fact table, returns and people tables as the two dimensions table. Both were joined to the fact table with a one-to-many relationship.
 
@@ -66,7 +66,7 @@ The following DAX measures were used to calculate key metrics within the dataset
 
 ## Data Analysis and visualization
 
-![Dashboard.PNG](Dashboard.PNG)
+![Dashboard](Dashboard.PNG)
 
 - #### What are the three countries that generated the highest total profit for Global Superstore in 2014?
 
@@ -99,7 +99,7 @@ The following DAX measures were used to calculate key metrics within the dataset
 
 - ####  Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?  
 
-![nigeria_profitability.PNG](nigeria_profitability.PNG)
+![Assessing Nigeria's Profitability](nigeria-profitability.PNG)
 
 In 2014, Nigeria had lowest total sales and profit compared to leading African countries with the most profit like South Africa, Morocco, Egypt and Democratic Republic of Congo. According to the visual, while Zimbabwe also made a loss, Nigeria lost the most money in the African region.
 
@@ -131,7 +131,7 @@ Compared to other countries, Nigeria's average shipping cost and discount is rel
   Followed by Copier with $105 and Phones with $98.
 
 - #### Who are the most valuable customers and what do they purchase?
-  ![top_customer.PNG](top_customer.PNG)
+  ![Top Customers](top-customer.PNG)
   The top 3 valuable customers are:
   1. Tamara Chand
   2. Raymond Buch
