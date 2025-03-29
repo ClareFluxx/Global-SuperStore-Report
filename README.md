@@ -9,11 +9,11 @@ This is a Power BI project on the sales analysis of an imaginary store called "G
 
 ## Problem Statement
 
-1.  What are the three countries that generated the highest total profit for Global Superstore in 2014? (b) For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?  
+1.  What are the three countries that generated the highest total profit for Global Superstore in 2014? (b) For each of these three countries, find the three products with the highest total profit. 
 2. Identify the 3 subcategories with the highest average shipping cost in the United States.
 3. Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries? (b) What factors might be responsible for Nigeria’s poor performance?
 4. Identify the product subcategory that is the least profitable in Southeast Asia.  Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam. (b) Is there a specific country i n Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?  
-5. Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. (b) Why is this city’s average profit so low?  
+5. Which city is the least profitable (in terms of average profit) in the United States? (b) Why is this city’s average profit so low?  
 6. Which product subcategory has the highest average profit in Australia?  
 7. Who are the most valuable customers and what do they purchase?
 
@@ -33,12 +33,15 @@ The data was stored in an excel file with multiple sheets, including:
 - Orders Table
 - Returns Table
 - People Table
-Find the the link to the Global Superstore dataset in below:  
-https://docs.google.com/spreadsheets/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/edit#gid=633280281 
 
 ## Data Transformation
 
-Before analysis, the dataset underwent data cleaning and transformationin power query. Key steps include: Removing duplicates, handling missing values, standardizing data types, extracting order year column and filtered data.
+Before analysis, the dataset underwent data cleaning and transformation in power query. 
+Key steps include: 
+- Removing duplicates,
+- Handling missing values,
+- Standardizing data types,
+- Extracting order year column and filtered data.
 
 ## Data Modeling
 
@@ -61,7 +64,7 @@ The following DAX measures were used to calculate key metrics within the dataset
 
 ##### This project documentation contains screenshots of data visualization as a means to interpret and easily read results gotten from my analysis.
 
-## Analysis and visualization
+## Data Analysis and visualization
 
 ![Dashboard.PNG](Dashboard.PNG)
 
