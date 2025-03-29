@@ -1,5 +1,7 @@
 # Global SuperStore Report
 
+![Introduction.png](Introduction.png)
+
 ## Introduction
 This is a Power BI project on the sales analysis of an imaginary store called "Global SuperStore". The objective of this project is to analyze the dataset and provide answers to business questions.
 
@@ -38,6 +40,8 @@ Before analysis, the dataset underwent data cleaning and transformationin power 
 
 ## Data Modeling
 
+![data_modeling.PNG](data_modeling.PNG)
+
 The Global SuperStore data model was structured using a star schema approach, with the order table as the central fact table, returns and people tables as the two dimensions table. Both were joined to the fact table with a one-to-many relationship.
 
 ## DAX Measures
@@ -57,15 +61,17 @@ The following DAX measures were used to calculate key metrics within the dataset
 
 ## Analysis and visualization
 
+![Dashboard.PNG](Dashboard.PNG)
+
 - #### What are the three countries that generated the highest total profit for Global Superstore in 2014?
-  
+
   In 2014,the three countries that generated the highest total profit for global superstore are:
   1. United States with $93,507.5
   2. India with $48,807.6
   3. China with $46,793.9
  
-- #### (b) For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
-
+- #### (b) For each of these three countries, find the three products with the highest total profit.
+  
   ##### 3 Products with the highest profit in United States
   1. Canon ImageCLASS 2200 Advanced Copier with $15,679.95
   2. Hewlett Packard Laserjet 3310 Copier with $3,623.94
@@ -87,6 +93,8 @@ The following DAX measures were used to calculate key metrics within the dataset
   3. Tables with $69.95
 
 - ####  Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?  
+
+![nigeria_profitability.PNG](nigeria_profitability.PNG)
 
 In 2014, Nigeria had lowest total sales and profit compared to leading African countries with the most profit like South Africa, Morocco, Egypt and Democratic Republic of Congo. According to the visual, while Zimbabwe also made a loss, Nigeria lost the most money in the African region.
 
@@ -118,12 +126,13 @@ Compared to other countries, Nigeria's average shipping cost and discount is rel
   Followed by Copier with $105 and Phones with $98.
 
 - #### Who are the most valuable customers and what do they purchase?
-
+  ![top_customer.PNG](top_customer.PNG)
   The top 3 valuable customers are:
   1. Tamara Chand
   2. Raymond Buch
   3. Hunter Lopez
   They all purchased Canon imageCLASS 2200 Advanced Copier.
+
 ## Conclusion/Recommendation
 
 Based on the insights, here are actionable recommendations for improving business performance:
